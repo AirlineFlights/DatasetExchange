@@ -21,3 +21,32 @@ Below we answer several of the frequently asked questions.
 	1.)  All Data with the exeption of sensitive information must be Public.
 	2.) The Data must be of value to a larger community. 
 	3.)  The Data Stream must be Real Time or near *Real Time*. 
+
+## When Contributing
+
+All front end contributions should be React writen with **pug via pug-as-jsx** by using pug we gain the ability to make dynamic web apps more rapidly and have greater control over the content as we scale. 
+
+## Dependencies
+- @carbon/icons-react
+>10.3.0
+
+- carbon-components 
+>10.3.1
+
+- carbon-components-react
+>7.3.1
+
+- npk
+> 0.0.4
+
+- pug-as-jsx-loader 
+>^1.0.88
+
+- react 
+> 16.5.2
+
+- react-dom 
+> 16.5.2
+
+- react-scripts 
+> 2.0.5
